@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+
+    background-image: url('www/background.png');
+}
+
+header {
+    height: 400px;
+}
+
+#logo {
+    width: 60%;
+    height: 90%;
+
+    margin: auto;
+}
+
+.menu {
+    text-align: center;
+    background-color: rgb(255, 201, 151);
+
+    padding-top: 0.1%;
+    padding-bottom: 0.1%;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+
+.text-orange {
+   color: #F40;
+}
+
+.boas-vindas {
+    width: 60%;
+
+    padding: 1%;
+    margin-top: 4%;    
+    margin-left: 2%;
+    float: left;
+
+    background-color: #f7e0c3;
+}
